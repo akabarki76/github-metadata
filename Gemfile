@@ -11,3 +11,4 @@ group :test do
 end
 
 gem "webrick" if RUBY_VERSION.to_i >= 3
+gem "jekyll-github-metadata"
